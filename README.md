@@ -7,7 +7,7 @@ A 3D multiplayer checkers game built with Unreal Engine and C++20 as a universit
 ## Media & Documentation
 
 * **Gameplay Video:** [Watch Project Showcase / Demo](https://www.youtube.com/watch?v=CBwt97jMAmA)
-* **Project Documentation:** [View Full Report / Spec]()
+* **Project Documentation:** [View Full Report / Spec](https://github.com/WicherK/WarcabyOnline/blob/main/docs/Final_Raport.pdf)
 
 ---
 
@@ -28,3 +28,8 @@ A 3D multiplayer checkers game built with Unreal Engine and C++20 as a universit
 * **3D Tavern Scene:** 3D main menu with ambient background music.
 * **Player Dashboard:** UI panel displaying saved player progress.
 * **Persistent Settings:** Audio and volume controls are saved to disk and reloaded on launch.
+
+## License & Disclaimer
+
+* **Academic Purpose:** Created for educational purposes (PK4 project).
+* **Audio Disclaimer:** The background music used in the menu is not my property and belongs to Blizzard Entertainment (from *World of Warcraft*). All music rights reserved to Blizzard Entertainment.
